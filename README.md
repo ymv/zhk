@@ -1,7 +1,7 @@
 ZHK
 ===
 
-Find proceesses, whose executable match regex and memory consumption is above threshold. Then SIGKILL them
+Find processes, whose executable match regex and memory consumption is above threshold. Then SIGKILL them
 
 See --help for options
 
